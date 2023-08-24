@@ -1,0 +1,90 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 10px solid rgba(9, 3, 62, 0.851);
+}
+
+.content{
+
+    max-width: 900px;
+    margin:0 auto;
+}
+
+.top_section{
+
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+
+}
+
+.bhagat img{
+
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.birth h1{
+
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+
+.bio{
+
+    margin-top: 80px;
+}
+
+.bio h2{
+
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    }
+
+.bio p{
+
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.Revolutionary{
+margin-top: 40px;
+}
+.Revolutionary h2{
+
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+
+.Revolutionary p{
+  
+    font-size: 20px;
+    line-height: 30px;
+
+
+}
+
+footer{
+
+    margin: 50px 0;
+}
+
+footer div{
+
+    text-align: end;
+}
+
